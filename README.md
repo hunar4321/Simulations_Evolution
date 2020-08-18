@@ -1,4 +1,4 @@
-# Simulations_Evolution
+# Simulations of Evolution
 Educational demos of simple simulated environments showcasing the effect of natural selection.
 
 To run each demo, open *index.html* file in your favorite browser and read the instructions.
