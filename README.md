@@ -14,6 +14,12 @@ These demos are for educational purposes and have been featured in an eductional
 
 --------------------------------------------------------
 
+**Artificial Selection - Simulated Demo**
+shows the end result of mating between shorter tailed rats.
+![](images/2020-08-26-15-32-37.gif)
+</br>
+
+**Simulated Environment - Survival of The Fittest**
 ![](images/simulated_environment.JPG)
 </br>
 
