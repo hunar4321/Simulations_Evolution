@@ -1,3 +1,4 @@
+// @Author: Hunar Ahmad
 
 var number=500;
 var bac=[];
