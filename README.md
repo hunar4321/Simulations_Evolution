@@ -17,6 +17,7 @@ These demos are for educational purposes and have been featured in an eductional
 **Artificial Selection - Simulated Demo**
 
 The demo shows the end result of mating between shorter tailed rats. After selecting a pair of short tailed rats, a new generation breeds from the selected rats
+play here: https://hunar4321.github.io/Simulations_Evolution/Artificial_Selection/index.html
 
 ![](images/2020-08-26-15-32-37.gif)
 </br>
